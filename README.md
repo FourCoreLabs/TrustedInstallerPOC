@@ -9,3 +9,4 @@ To run
 3. You can either build a binary using `go build ti` or run it directly using `go run ti`
 
 It will spawn a new cmd shell as TrustedInstaller which you can check by running `whoami /all`
+![demo](https://user-images.githubusercontent.com/26490648/219342533-79d0cf34-0bf2-4f63-b805-34fca5aff012.gif)
